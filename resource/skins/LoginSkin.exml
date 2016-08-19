@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="LoginSkin" width="400" height="300" xmlns:e="http://ns.egret.com/eui">
+	<e:Label text="标签" x="166" y="84"/>
+	<e:Button label="dssadsa" x="69" y="188" width="117" height="48"/>
+	<e:Image height="75" width="98" x="18" y="74"/>
+</e:Skin>
