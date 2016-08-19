@@ -26,8 +26,8 @@ class ProtoBufTest{
 
     private clientTest():void{
         //初始化simple_proto
-        var message = dcodeIO.ProtoBuf.loadProto(RES.getRes("simple_proto"));
-
+        //var message = dcodeIO.ProtoBuf.loadProto(RES.getRes("simple_proto"));
+        var message=null;
         //创建user_login_class
         var user_login_class = message.build("user_login_c2s");
 

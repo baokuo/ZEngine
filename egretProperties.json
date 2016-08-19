@@ -7,7 +7,7 @@
     "native": 1,
     "path": "bin-release"
   },
-  "egret_version": "3.0.8",
+  "egret_version": "3.0.5",
   "modules": [
     {
       "name": "egret"
@@ -30,10 +30,6 @@
     {
 		"name": "socket"
 	}
-	,
-	{
-    	"name":"protobuf",
-    	"path":"librarys/protobuf"
-	}
+	
   ]
 }
